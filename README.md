@@ -1,6 +1,6 @@
 # Winja CTF Screening Challenge
  
- This is the screening assignment for Winja CTF 2021 screening assignment. It is a Web Based CTF Challenge.
+ This is the screening assignment for Winja CTF 2021. It is a Web Based CTF Challenge.
 
 ## Development Specifications
 
@@ -24,6 +24,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 Aneesh Dua
 
 ## Contact me:
-* Email - aneeshdua@gmail.com
+* Email - workstuff.dua@gmail.com
 * Twitter - https://twitter.com/aneeshdua
 * LinkedIn - https://www.linkedin.com/in/aneesh-dua-b6160b151/
