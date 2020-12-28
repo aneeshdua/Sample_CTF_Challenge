@@ -1,6 +1,6 @@
-# Winja CTF Screening Challenge
+# Sample CTF Challenge
  
- This is the screening assignment for Winja CTF 2021. It is a Web Based CTF Challenge.
+It is a Web Based CTF Challenge.
 
 ## Development Specifications
 
